@@ -1,0 +1,15 @@
+E:\Projetos\CleanArchMvc\CleanArchMVC.Infra.Data\bin\Debug\net9.0\CleanArchMVC.Infra.Data.deps.json
+E:\Projetos\CleanArchMvc\CleanArchMVC.Infra.Data\bin\Debug\net9.0\CleanArchMVC.Infra.Data.dll
+E:\Projetos\CleanArchMvc\CleanArchMVC.Infra.Data\bin\Debug\net9.0\CleanArchMVC.Infra.Data.pdb
+E:\Projetos\CleanArchMvc\CleanArchMVC.Infra.Data\bin\Debug\net9.0\CleanArchMVC.Domain.dll
+E:\Projetos\CleanArchMvc\CleanArchMVC.Infra.Data\bin\Debug\net9.0\CleanArchMVC.Domain.pdb
+E:\Projetos\CleanArchMvc\CleanArchMVC.Infra.Data\obj\Debug\net9.0\CleanArchMVC.Infra.Data.csproj.AssemblyReference.cache
+E:\Projetos\CleanArchMvc\CleanArchMVC.Infra.Data\obj\Debug\net9.0\CleanArchMVC.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CleanArchMvc\CleanArchMVC.Infra.Data\obj\Debug\net9.0\CleanArchMVC.Infra.Data.AssemblyInfoInputs.cache
+E:\Projetos\CleanArchMvc\CleanArchMVC.Infra.Data\obj\Debug\net9.0\CleanArchMVC.Infra.Data.AssemblyInfo.cs
+E:\Projetos\CleanArchMvc\CleanArchMVC.Infra.Data\obj\Debug\net9.0\CleanArchMVC.Infra.Data.csproj.CoreCompileInputs.cache
+E:\Projetos\CleanArchMvc\CleanArchMVC.Infra.Data\obj\Debug\net9.0\CleanArc.97DE82BA.Up2Date
+E:\Projetos\CleanArchMvc\CleanArchMVC.Infra.Data\obj\Debug\net9.0\CleanArchMVC.Infra.Data.dll
+E:\Projetos\CleanArchMvc\CleanArchMVC.Infra.Data\obj\Debug\net9.0\refint\CleanArchMVC.Infra.Data.dll
+E:\Projetos\CleanArchMvc\CleanArchMVC.Infra.Data\obj\Debug\net9.0\CleanArchMVC.Infra.Data.pdb
+E:\Projetos\CleanArchMvc\CleanArchMVC.Infra.Data\obj\Debug\net9.0\ref\CleanArchMVC.Infra.Data.dll
